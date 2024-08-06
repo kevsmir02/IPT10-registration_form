@@ -84,7 +84,6 @@
                     <option value="CBAA">CBAA</option>
                     <option value="CCJE">CCJE</option>
                     <option value="COE">COE</option>
-                    <!-- Add more options as needed -->
                 </select>
             </div>
             <div class="form-group">
